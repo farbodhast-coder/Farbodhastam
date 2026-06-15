@@ -93,7 +93,7 @@ It's the single most important metric for airport activity.
 
 | Metric | Value |
 |--------|-------|
-| R² Score | `0.7918` |
+| R² Score | `0.809` |
 | MAE | `$8,479` |
 | RMSE | `$11,076` |
 
